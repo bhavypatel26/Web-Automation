@@ -1,0 +1,10 @@
+.env
+credentials.local.json
+credentials.example.json
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+local-data/
